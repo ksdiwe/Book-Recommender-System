@@ -11,7 +11,7 @@ similarity_scores = pickle.load(open('similarity_scores.pkl','rb'))
 st.header('Book Recommender System')
 
 selected_books = st.selectbox(
-    "Select a book to see similar recommendations:",
+    "Select a book or type book name to see similar recommendations:",
    books["Book-Title"]
 )
 
