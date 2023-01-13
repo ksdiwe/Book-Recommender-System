@@ -4,6 +4,8 @@
 
 [Web App](https://ksdiwe-book-recommender-system-app-kbvyvw.streamlit.app/)
 
+Dataset: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
+
 Approach:
 - I first filtered the data by considering only those users who have rated more than 200 books and only those books that have received more than 50 ratings.
 - This step helped in reducing the noise and sparsity in the data by focusing on users and books that have a significant number of ratings.
