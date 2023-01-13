@@ -13,7 +13,8 @@ Approach:
 - This approach calculates the distance between the ratings of two books, which helps in identifying the books that are similar in terms of their ratings.
 Finally, based on the similarity scores, generated recommendations for a selected book. By considering the books with the highest similarity scores to the selected book, were able to recommend other books that users with similar tastes might also enjoy.
 
-
+# Blog
+[Book-Recommender-System](https://medium.com/@ksdiwe2615/book-recommender-system-6c73e93ab80f)
 
 https://user-images.githubusercontent.com/20944950/212302482-62189718-76d9-490b-b6a2-3015d20fde43.mp4
 
