@@ -2,8 +2,6 @@
 
 ### 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝘃𝗲 𝗙𝗶𝗹𝘁𝗲𝗿𝗶𝗻𝗴-𝗕𝗮𝘀𝗲𝗱 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗲𝗿 𝗦𝘆𝘀𝘁𝗲𝗺
 
-[Web App](https://ksdiwe-book-recommender-system-app-kbvyvw.streamlit.app/)
-
 Dataset: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 
 Approach:
